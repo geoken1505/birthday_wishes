@@ -36,9 +36,9 @@ export default function MessageScreen({ onNext }) {
                         But not sure what made up to get going.. we built a good friendship together.. as your Makhan we spent quality time together getting to know each other.. but I was the one who
                         always wanted a relationship more than just friendship... but you were not ready for that somewhere... your absence made me understand how much I need your presence same on your side...
                         thats how we built our relationship together... today we may not admit but we got very close emotionally that we cant bear our seperation... I want you for the entire of my life just holding your hands 
-                        and walking together till my last breath.. This day is very special to you and I should be next to you... but unfortunately I couldn't make up... but I promise I one day I will be standing in fromt 
+                        and walking together till my last breath.. This day is very special to you and I should be next to you... but unfortunately I couldn't make up... but I promise one day I will be standing in front 
                         of you hugging you tightly that day we will celebrate the day very specially.... Enjoy this day... I will miss you lot by my side... I pray to God to give all the happiness to you and whatever pain
-                        is standing in front of you should come to me... Once again Many more happy returns of the day my cutie wifey from your Makhan who got arrested in your eyes from day ...
+                        is standing in front of you should come to me... Once again Many more happy returns of the day my cutie wifey from your Makhan who got arrested in your eyes from day 1...
                     </p>
                 </motion.div>
             </div>

@@ -38,7 +38,7 @@ export default function MessageScreen({ onNext }) {
                         thats how we built our relationship together... today we may not admit but we got very close emotionally that we cant bear our seperation... I want you for the entire of my life just holding your hands 
                         and walking together till my last breath.. This day is very special to you and I should be next to you... but unfortunately I couldn't make up... but I promise one day I will be standing in front 
                         of you hugging you tightly that day we will celebrate the day very specially.... Enjoy this day... I will miss you lot by my side... I pray to God to give all the happiness to you and whatever pain
-                        is standing in front of you should come to me... Once again Many more happy returns of the day my cutie wifey from your Makhan who got arrested in your eyes from day 1...
+                        is standing in front of you should come to me... Once again Many more happy returns of the day my cutie wifey from your Makhan who got arrested in your eyes from day one...
                     </p>
                 </motion.div>
             </div>
